@@ -6,8 +6,7 @@ Open source job hunting automation.
 
 **[job-hunter-core](https://github.com/JobHunterPath/job-hunter-core)** — the automation engine. Scrapes jobs from 15+ sources (ATS APIs, job boards, AI search), scores them with an LLM, and tailors your resume and cover letter.
 
-**[job-hunter-template](https://github.com/JobHunterPath/job-hunter-template)** — your personal config repo. Fill in your resume and preferences, GitHub Actions runs the engine for you. No local setup required.
-
+**[job-hunter-template](https://github.com/JobHunterPath/job-hunter-template)** — template repo with which you can create your personal config repo. Fill in your resume and preferences, GitHub Actions runs the engine for you.
 ## How it works
 
     job-hunter-template (your fork)
